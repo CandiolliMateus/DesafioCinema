@@ -1,2 +1,3 @@
 module cinema {
+	requires junit;
 }

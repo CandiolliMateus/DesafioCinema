@@ -8,7 +8,6 @@ public class IngressoIdosos {
 	public IngressoIdosos() {
 		
 	}
-	
 
 	public char getTipo() {
 		return tipo;
