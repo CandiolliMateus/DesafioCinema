@@ -2,7 +2,6 @@ package principal;
 
 public class Ingresso {
 	
-	private final char tipo = 'T';
 	private final double ingressoCrianca = 5.5;
 	private final double ingressoEstudante = 8;
 	private final double ingressoIdoso = 6;
@@ -20,10 +19,6 @@ public class Ingresso {
 
 	public double getingressoInteiro() {
 		return ingressoInteiro;
-	}
-
-	public char getTipo() {
-		return tipo;
 	}
 
 	public double getIngressoCrianca() {
